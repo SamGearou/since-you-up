@@ -2,15 +2,20 @@
 //  ContentView.swift
 //  since-you-up
 //
-//  Created by Sam Gearou on 8/30/22.
+//  Created by Sam Gearou on 8/5/23.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
-            .padding()
+        VStack {
+            Image(systemName: "globe")
+                .imageScale(.large)
+                .foregroundColor(.accentColor)
+            Text("Hello, world!")
+        }
+        .padding()
     }
 }
 
