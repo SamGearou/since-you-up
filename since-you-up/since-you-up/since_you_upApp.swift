@@ -1,10 +1,3 @@
-//
-//  since_you_upApp.swift
-//  since-you-up
-//
-//  Created by Sam Gearou on 8/5/23.
-//
-
 import SwiftUI
 
 @main

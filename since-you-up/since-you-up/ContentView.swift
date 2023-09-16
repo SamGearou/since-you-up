@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  since-you-up
-//
-//  Created by Sam Gearou on 8/5/23.
-//
-
 import SwiftUI
 
 struct LoginView: View {
