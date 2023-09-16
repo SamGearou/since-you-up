@@ -1,10 +1,3 @@
-//
-//  since_you_upTests.swift
-//  since-you-upTests
-//
-//  Created by Sam Gearou on 8/5/23.
-//
-
 import XCTest
 
 final class since_you_upTests: XCTestCase {
